@@ -11,4 +11,6 @@ pytest-cov==4.1.0
 flake8==7.0.0
 black==23.12.1
 isort==5.13.2
-
+pytest-xdist==3.5.0
+newspaper3k==0.2.8
+lxml_html_clean
